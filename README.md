@@ -6,7 +6,7 @@
 
 ## Explore
 
-- [Open the portfolio website](index.html)
+- [Open the live portfolio website](https://joshuamichae001.github.io/joshua-customer-support-portfolio/)
 - [Customer response samples](samples/customer-responses.md)
 - [Complaint resolution case studies](samples/complaint-resolution.md)
 - [Support workflow](samples/support-workflow.md)
@@ -18,14 +18,8 @@ This project demonstrates a thoughtful approach to written customer support: lis
 
 ## Education and skills
 
-Education details should be added only after confirming the exact qualification, institution, and dates. The skills section on the website focuses on demonstrated work samples and should be edited to match the author's real abilities.
+Joshua holds a B.Sc. in Library and Information Science from Michael Okpara University of Agriculture, Umudike, and graduated in October 2025. Relevant skills include customer communication, active listening, complaint handling, written communication, online purchasing assistance, research and information retrieval, organisation, problem-solving, and follow-up. Practical customer assistance examples reflect informal support experience and are presented accurately.
 
-## View online
+## Sample data and privacy
 
-[Open the live portfolio website](https://joshuamichae001.github.io/joshua-customer-support-portfolio/).
-
-## Publishing
-
-This site is published with GitHub Pages from the main branch and repository root.
-
-The repository and website are public. Keep private contact details and real customer information out of future updates.
+The dashboard figures are invented and clearly marked as simulated. No real customer records or private contact details are included.
