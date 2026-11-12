@@ -1,0 +1,6 @@
+metric,value,period,notes
+Tickets received,120,Sample month,Simulated data for portfolio demonstration only
+Tickets resolved,108,Sample month,Simulated data for portfolio demonstration only
+First response time (hours),3.2,Sample month,Simulated data for portfolio demonstration only
+Customer satisfaction (%),92,Sample month,Simulated data for portfolio demonstration only
+First contact resolution (%),78,Sample month,Simulated data for portfolio demonstration only
