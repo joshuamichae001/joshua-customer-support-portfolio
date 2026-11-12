@@ -22,13 +22,10 @@ Education details should be added only after confirming the exact qualification,
 
 ## View online
 
-After publishing with GitHub Pages, replace this line with the live site URL.
+[Open the live portfolio website](https://joshuamichae001.github.io/joshua-customer-support-portfolio/).
 
-## Publish with GitHub Pages
+## Publishing
 
-1. Create a public repository named `joshua-customer-support-portfolio`.
-2. Upload the contents of this folder to the repository's root.
-3. In **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/(root)`, then save.
-4. GitHub will show the published website address in the Pages settings.
+This site is published with GitHub Pages from the main branch and repository root.
 
-Review every personal detail before making the repository public. Do not add private contact details or real customer information.
+The repository and website are public. Keep private contact details and real customer information out of future updates.
